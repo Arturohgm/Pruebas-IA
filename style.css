@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th {
+    background-color: #ccc;
+    padding: 8px;
+}
+
+td {
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    text-decoration: underline;
+}
